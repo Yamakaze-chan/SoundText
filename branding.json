@@ -1,0 +1,10 @@
+{
+  "app_name": "SoundText",
+  "app_version": "1.0.0",
+  "publisher": "Yamakaze-chan",
+  "tagline": "Phụ đề và biên bản hội thoại trực tiếp",
+  "icon_path": "assets/branding/soundtext-icon.png",
+  "splash_path": "assets/branding/soundtext-splash.png",
+  "show_splash": true,
+  "splash_duration_ms": 300
+}
