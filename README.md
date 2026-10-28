@@ -1,3 +1,5 @@
+[Tiếng Việt](README.md) | [English](README_EN.md)
+
 # SoundText
 
 **Phiên âm và dịch hội thoại trực tiếp trên Windows.**
@@ -133,3 +135,5 @@ Nếu định phân phối SoundText cùng model, hãy kiểm tra giấy phép c
 Nếu bạn gặp lỗi, có thể mở Issue kèm phiên bản SoundText, phiên bản Windows/Python, các bước tái hiện và phần log liên quan. Hãy xóa thông tin cá nhân hoặc nội dung cuộc họp trước khi đăng log công khai.
 
 Mình hoan nghênh các góp ý giúp SoundText ổn định hơn, dễ sử dụng hơn và tương thích tốt hơn với nhiều cấu hình Windows.
+
+Email liên hệ: nhatvipmason@gmail.com
